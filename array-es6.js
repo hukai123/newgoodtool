@@ -30,10 +30,5 @@ function indexOfArray(value,array,name = 'name') {
 
 }
 
-export {
-    deepClone,
-    indexOfArray,
-}
-
-// module.exports = { deepClone, indexOfArray }
+module.exports = { deepClone, indexOfArray }
 
